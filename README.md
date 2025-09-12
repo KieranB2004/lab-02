@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-N/A
+https://startandroid.ru/en/lessons/573-lesson-43-single-and-multiple-choice-in-listview.html
 
 List any resources used here, or simply put `N/A` if not applicable.
 
